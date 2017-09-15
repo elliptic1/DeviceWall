@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "586195598621",
+    "firebase_url": "https://device-wall-d7936.firebaseio.com",
+    "project_id": "device-wall-d7936",
+    "storage_bucket": "device-wall-d7936.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:586195598621:android:d3a19e0ac3cfbbeb",
+        "android_client_info": {
+          "package_name": "com.tbse.devicewall"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "586195598621-qat66m0ohq3ci3im3v18a3i4p744coid.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tbse.devicewall",
+            "certificate_hash": "56cccf218056f72f1a72dfe9728621aaef88276c"
+          }
+        },
+        {
+          "client_id": "586195598621-l85lv2ff28t0an7od6m85e9tfb7rggha.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASEtqZaY5L5OlGnXrjMBftUz9HUplRShU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "586195598621-l85lv2ff28t0an7od6m85e9tfb7rggha.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
